@@ -13,6 +13,8 @@ There are no technical skills required. Follow the steps in order and you will b
 | **GitHub** | Cloud storage for all our shared files, docs, and code |
 | **GitHub Desktop** | An app that lets you download and sync GitHub repos without any coding |
 | **Obsidian** | An app that lets you read and navigate all our documents beautifully |
+| **Warp** | A modern, beginner-friendly terminal we use to run automations and tools |
+| **Claude Code** | The AI agent we use to build, run, and manage the project — runs in the terminal |
 
 ---
 
@@ -22,7 +24,8 @@ There are no technical skills required. Follow the steps in order and you will b
 2. Wait for your repository invitation email from GitHub
 3. Install GitHub Desktop and clone the repos to your computer
 4. Install Obsidian and open the repo as a vault
-5. You are in
+5. Install Warp terminal and Claude Code, log in with the team account
+6. You are in
 
 ---
 
@@ -32,6 +35,7 @@ There are no technical skills required. Follow the steps in order and you will b
 2. [Step 2 — Install GitHub Desktop and Clone the Repos](./02-GitHub-Desktop.md)
 3. [Step 3 — Set Up Obsidian](./03-Obsidian.md)
 4. [Step 4 — What Is In Each Repo](./04-Your-Repos.md)
+5. [Step 5 — Claude Code and the Terminal](./05-Claude-Code-and-Terminal.md)
 
 ---
 
